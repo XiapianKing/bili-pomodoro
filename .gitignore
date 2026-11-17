@@ -1,0 +1,14 @@
+# build artifacts
+*.exe
+*.pdb
+
+# local test tooling
+tools/
+
+# screenshots
+*.png
+
+# user runtime data (never commit)
+config.json
+list.json
+stats.json
